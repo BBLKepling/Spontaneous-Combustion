@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <BBLK_SpontaneousCombustion_Settings>Spontaneous Combustion</BBLK_SpontaneousCombustion_Settings>
+  <BBLK_SpontaneousCombustion_Info>Either Fire or Explosion needs to be on for this mod to work, if both are off then this mod does nothing.</BBLK_SpontaneousCombustion_Info>
+  
+  <BBLK_SpontaneousCombustionLabelLetterSend>Send Letter</BBLK_SpontaneousCombustionLabelLetterSend>
+  <BBLK_SpontaneousCombustionLetterToolTipSend>Turn this off if you don't want letters sent.</BBLK_SpontaneousCombustionLetterToolTipSend>
+
+  <BBLK_SpontaneousCombustionLabelIncludePlants>Include Plants</BBLK_SpontaneousCombustionLabelIncludePlants>
+  <BBLK_SpontaneousCombustionIncludeToolTipPlants>Turn this off if you don't want plants targeted.</BBLK_SpontaneousCombustionIncludeToolTipPlants>
+
+  <BBLK_SpontaneousCombustionLabelCombustFire>Fire</BBLK_SpontaneousCombustionLabelCombustFire>
+  <BBLK_SpontaneousCombustionCombustToolTipFire>Sets the target on fire, will be explosive if paired with the Explosion option.</BBLK_SpontaneousCombustionCombustToolTipFire>
+
+  <BBLK_SpontaneousCombustionLabelCombustExplode>Explosion</BBLK_SpontaneousCombustionLabelCombustExplode>
+  <BBLK_SpontaneousCombustionCombustToolTipExplode>Causes the target to explode, will be firery if paired with the Fire option.</BBLK_SpontaneousCombustionCombustToolTipExplode>
+
+  <BBLK_SpontaneousCombustionLabelExplosionRadius>Explosion Radius</BBLK_SpontaneousCombustionLabelExplosionRadius>
+  <BBLK_SpontaneousCombustionToolTipExplosionRadius>Explosion needs to be on for this to do anything.</BBLK_SpontaneousCombustionToolTipExplosionRadius>
+  
+</LanguageData>

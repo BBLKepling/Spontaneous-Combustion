@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <!--========================== Bad ===============================-->
+
+  <IncidentDef>
+    <defName>BBLK_SpontaneousCombustion</defName>
+    <label>Spontaneous Combustion!</label>
+    <category>Misc</category>
+    <targetTags>
+      <li>Map_PlayerHome</li>
+    </targetTags>
+    <workerClass>Spontaneous_Combustion.IncidentWorker_SpontaneousCombustion</workerClass>
+    <baseChance>1.0</baseChance>
+    <minRefireDays>8</minRefireDays>
+  </IncidentDef>
+
+</Defs>

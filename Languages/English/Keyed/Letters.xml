@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <BBLK_SpontaneousCombustion_LetterLabel>Spontaneous Combustion!</BBLK_SpontaneousCombustion_LetterLabel>
+  <BBLK_SpontaneousCombustion_LetterText>{CULPRIT_label} spontaneously combusted.</BBLK_SpontaneousCombustion_LetterText>
+
+</LanguageData>

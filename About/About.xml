@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Spontaneous Combustion</name>
+  <author>bblkepling</author>
+  <supportedVersions>
+    <li>1.4</li>
+  </supportedVersions>
+  <packageId>bblkepling.spontaneouscombustion</packageId>
+  <description>Makes things spontaneously combust.</description>
+</ModMetaData>
