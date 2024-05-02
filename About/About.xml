@@ -4,6 +4,7 @@
   <author>bblkepling</author>
   <supportedVersions>
     <li>1.4</li>
+    <li>1.5</li>
   </supportedVersions>
   <packageId>bblkepling.spontaneouscombustion</packageId>
   <description>Makes things spontaneously combust.</description>

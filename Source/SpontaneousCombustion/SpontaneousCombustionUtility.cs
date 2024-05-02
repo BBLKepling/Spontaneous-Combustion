@@ -60,11 +60,11 @@ namespace Spontaneous_Combustion
             {
                 if (culprit.CanEverAttachFire())
                 {
-                    culprit.TryAttachFire(Rand.Range(0.5f, 1f));
+                    culprit.TryAttachFire(Rand.Range(0.5f, 1f), culprit);
                 }
                 else
                 {
-                    FireUtility.TryStartFireIn(culprit.Position, culprit.Map, Rand.Range(0.5f, 1f));
+                    FireUtility.TryStartFireIn(culprit.Position, culprit.Map, Rand.Range(0.5f, 1f), culprit);
                 }
                 if (SpontaneousCombustionSettings.letterSend)
                 {
